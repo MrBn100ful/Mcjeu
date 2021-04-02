@@ -1,0 +1,11 @@
+name: MiniJeu
+main: fr.MrBn100ful.mcjeu.Main
+author: MrBn100ful
+version: 1.0
+commands:
+   join:
+    description: join the game
+    usage: /join
+   quit:
+    description: quit the game
+    usage: /quit
